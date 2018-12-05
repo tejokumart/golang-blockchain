@@ -1,3 +1,5 @@
+github.com/tensor-programming/golang-blockchain v0.0.0-20181024014227-062df22f8699 h1:CIlAFjc0VeOax75JOU9hYfaCYK+EhWJTYFR+VzD5Kvs=
+github.com/tensor-programming/golang-blockchain v0.0.0-20181024014227-062df22f8699/go.mod h1:nuzoyT6FfxMI5OuSZ+hoZDNHbauK7N9uugIMyF6IT1Q=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c h1:qgOY6WgZOaTkIIMiVjBQcw93ERBE4m30iBm00nkL0i8=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
 golang.org/x/text v0.3.0 h1:g61tztE5qeGQ89tm6NTjjM9VPIm088od1l6aSorWRWg=
